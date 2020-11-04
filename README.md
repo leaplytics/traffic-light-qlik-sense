@@ -154,7 +154,7 @@ For further information, training material or use cases contact us via
 our [contact form](https://www.leaplytics.de/kontakt/).
 
 For bugs and troubleshooting, you can [file an
-issue](https://github.com/leaplytics/traffic-light-qlik-sense/qlik-extensions/issues).
+issue](https://github.com/leaplytics/traffic-light-qlik-sense/issues).
 
 ### Copyright 
 
