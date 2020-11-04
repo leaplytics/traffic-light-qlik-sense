@@ -1,6 +1,9 @@
 # Traffic Light – Extension for Qlik Sense
 
-![Traffic Light Extension](docs/visualization.gif)
+Visualization            |  Example Settings
+:-------------------------:|:-------------------------:
+![Traffic Light Extension](docs/visualization.gif)  |  ![Traffic Light Settings](docs/settings_full.gif)
+
 
 ## Introduction
 
