@@ -162,6 +162,8 @@ This extension has been tested with:
 
 ### Contact
 
+For exclusive updates and release information, subscribe to [our E-Mail Newsletter](https://www.leaplytics.de/subscribe_product/).
+
 For further information, training material or use cases contact us via
 our [contact form](https://www.leaplytics.de/kontakt/).
 
