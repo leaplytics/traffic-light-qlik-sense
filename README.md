@@ -142,6 +142,9 @@ This Qlik Sense extension is developed by
 This extension has been tested with:
 
 [Qlik Sense
+2020/11](https://help.qlik.com/en-US/sense-developer/November2020/Content/Sense_Helpsites/WhatsNew/What-is-new-developer-Nov2020.htm)
+
+[Qlik Sense
 2020/09](https://help.qlik.com/en-US/sense-developer/September2020/Content/Sense_Helpsites/WhatsNew/What-is-new-developer-Sept2020.htm)
 
 [Qlik Sense
@@ -149,7 +152,13 @@ This extension has been tested with:
 
 ### Version History
 
-Version 1.0 - Initial Version
+#### Version 1.1
+- Optimized space within horizontal alignment
+- Added e-Mail Subscribtion Button
+
+#### Version 1.0
+
+- Initial Version
 
 ### Contact
 

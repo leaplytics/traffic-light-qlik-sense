@@ -2,7 +2,7 @@
 	"name": "Traffic-Light",
 	"description": "Traffic-Light with user defined ranges to visualize progress.",
 	"type": "visualization",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"icon": "gauge-chart",
     "preview": "icon.png",
 	"author": "Bjoern Lange, Dominik Galsheimer, Stefan Preusler",
