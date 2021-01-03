@@ -1,4 +1,4 @@
-# Traffic Light – Extension for Qlik Sense
+# LeapLytics Traffic Light – Extension for Qlik Sense
 
 Visualization            |  Example Settings
 :-------------------------:|:-------------------------:
