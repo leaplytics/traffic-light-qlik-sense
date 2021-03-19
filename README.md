@@ -30,6 +30,14 @@ IT-Performance-Monitoring Tool
 repairs is exceeded, which leads to a general evaluation of heavy
 maintenance
 
+---
+
+<h2 align="center">PRO Version</h2>
+
+<p align="center">Interested in a <b>more flexible</b> with <b>even more features</b>? Check out our <a href="https://www.leaplytics.de/traffic-light-qliksense-offering/" target="_blank">PRO Version here</a>!</p>
+
+---
+
 ## Installation
 
 1.  Download the [“Traffic Light
@@ -151,6 +159,9 @@ This extension has been tested with:
 2019/09](https://help.qlik.com/en-US/sense-developer/September2019/Content/Sense_Helpsites/WhatsNew/What-is-new-developer-Sept2019.htm)
 
 ### Version History
+
+#### Version 1.2
+- Minor Bugfixing
 
 #### Version 1.1
 - Optimized space within horizontal alignment
