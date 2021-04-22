@@ -34,7 +34,7 @@ maintenance
 
 <h2 align="center">PRO Version</h2>
 
-<p align="center">Interested in a <b>more flexible</b> with <b>even more features</b>? Check out our <a href="https://www.leaplytics.de/traffic-light-qliksense-offering/" target="_blank">PRO Version here</a>!</p>
+<p align="center">Interested in a <b>more flexible</b> with <b>even more features</b>? Check out our <a href="https://www.leaplytics.de/traffic-light-qliksense-offering/?utm_source=traffic-light&utm_medium=github&utm_campaign=above-the-fold" target="_blank">PRO Version here</a>!</p>
 
 ---
 
@@ -173,10 +173,10 @@ This extension has been tested with:
 
 ### Contact
 
-For exclusive updates and release information, subscribe to [our E-Mail newsletter](https://www.leaplytics.de/subscribe_product/).
+For exclusive updates and release information, subscribe to [our E-Mail newsletter](https://www.leaplytics.de/subscribe_product/?utm_source=traffic-light&utm_medium=github&utm_campaign=below-the-fold).
 
 For further information, training material or use cases contact us via
-our [contact form](https://www.leaplytics.de/kontakt/).
+our [contact form](https://www.leaplytics.de/kontakt/?utm_source=traffic-light&utm_medium=github&utm_campaign=below-the-fold).
 
 For bugs and troubleshooting, you can [file an
 issue](https://github.com/leaplytics/traffic-light-qlik-sense/issues).
@@ -184,3 +184,11 @@ issue](https://github.com/leaplytics/traffic-light-qlik-sense/issues).
 ### Copyright 
 
 Copyright (c) 2020 [LeapLytics](https://www.leaplytics.de/)
+
+---
+
+<h2 align="center">Pro Version</h2>
+
+<p align="center">Interested in a <b>more flexible</b> with <b>even more features</b>? Check out our <a href="https://www.leaplytics.de/traffic-light-qliksense-offering/?utm_source=traffic-light&utm_medium=github&utm_campaign=below-the-fold" target="_blank">PRO Version here</a>!</p>
+
+---
